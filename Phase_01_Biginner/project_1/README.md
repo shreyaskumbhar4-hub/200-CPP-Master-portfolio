@@ -30,10 +30,11 @@ Since this project was developed in a Windows environment, follow these steps to
    g++ main.cpp -o Calculator.exe
    ```
 3. ***Run the application:**
-    ''' DOS
-    Calculator.exe'''
-##Usage Example
-    '''--------------enter first number----------------------- 
+    ``` DOS
+     Calculator.exe
+     ```
+## Usage Example
+    ```--------------enter first number----------------------- 
 10
 --------------enter second number----------------------- 
 2
@@ -43,4 +44,4 @@ Since this project was developed in a Windows environment, follow these steps to
 	10 / 2
 ------------------------------------------------------
 	Solution :====> 	5
----------------------------END---------------------------'''
+---------------------------END---------------------------```
