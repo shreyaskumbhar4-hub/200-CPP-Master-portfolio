@@ -34,7 +34,7 @@ Since this project was developed in a Windows environment, follow these steps to
      Calculator.exe
      ```
 ## Usage Example
-    ```
+    
     --------------enter first number----------------------- 
     10
     --------------enter second number----------------------- 
