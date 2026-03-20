@@ -25,7 +25,7 @@ A robust, logic-based CLI game where the computer generates a secret random numb
 4. Run the executable:
    ```bash
     ./guessing_game.exe
-
+## output
 ![Game Screenshot](screenshot.PNG)
 
 ## 📖 Lesson Learned

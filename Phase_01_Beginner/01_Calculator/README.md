@@ -33,6 +33,8 @@ Since this project was developed in a Windows environment, follow these steps to
     ``` DOS
      Calculator.exe
      ```
+4. **Output:**
+![Game Screenshot](screenshot.PNG)
 ## Usage Example
     
     --------------enter first number----------------------- 
