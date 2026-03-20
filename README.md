@@ -19,9 +19,10 @@ This repository tracks my journey through 200 C++ projects, moving from basic lo
 | ID | Project Name | Status | Link |
 |:---|:---|:---|:---|
 | 01 | Simple Calculator | 🏗️ Complete | [View](./Phase_01_Beginner/01_Calculator/) |
-| 02 | Number Guessing | ⏳ In Progress | [Link] |
+| 02 | Number Guessing | 🏗️ Complete | [View] (./Phase_01_Beginner/02_Number_Guessing/) |
 | 03 | Age Calculator | ⏳ Todo | [Link] |
 | 04 | Celsius to Fahrenhiet Converter | ⏳ Todo | [Link] |
+| 05 | TO-DO List (CLI Based) | [View] (./Phase_01_Beginner/) |
 ### 🟡 [Phase 2: Intermediate](./Phase_02_Intermediate/)
 *Object-Oriented Programming, File Handling, and Data Structures.*
 | ID | Project Name | Status | Link |
