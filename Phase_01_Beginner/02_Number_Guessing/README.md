@@ -26,7 +26,7 @@ A robust, logic-based CLI game where the computer generates a secret random numb
    ```bash
     ./guessing_game.exe
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshot.PNG)
 
 ## 📖 Lesson Learned
   During this project, I focused on Sequential Execution Flow. I learned that variables must be initialized with user input before performing calculations to avoid "Garbage Value" errors and runtime crashes (guessing_game.exe stopped working).
