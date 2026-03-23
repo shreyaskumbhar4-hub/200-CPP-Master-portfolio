@@ -21,6 +21,7 @@ A logic-driven CLI application that calculates a user's exact age in **Years, Mo
 3. Compile the file:
    ```bash
    g++ main.cpp -o age_calculator
+
 4.  Run the executable:
    ```bash
     ./age_calculator.exe
@@ -29,4 +30,5 @@ A logic-driven CLI application that calculates a user's exact age in **Years, Mo
 ![Game Screenshot](screenshot.PNG)
 
 ## 📖 Lesson Learned
+
     During this project, I mastered State Management in Arithmetic. I learned that "Date Subtraction" is not linear because the value of a "Month" changes depending on the calendar. I successfully implemented logic to "borrow" days from the previous month and months from the year, ensuring the program never produces negative values or "Garbage" results.
