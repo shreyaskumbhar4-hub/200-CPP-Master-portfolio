@@ -29,5 +29,3 @@ This program allows users to input a temperature value and choose a conversion d
 ![Screenshot](screenshot1.PNG)
 ![Screenshot](screenshot2.PNG)
 
-## 🧠 Lessons Learned (Key Concepts)
-During the development of this project, I mastered several core programming and engineering principles:
