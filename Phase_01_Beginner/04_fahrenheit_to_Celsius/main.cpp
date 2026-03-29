@@ -10,8 +10,8 @@ int main(){
     cout<<"\tFahrenheit / Celsius Convertor"<<endl;
     cout<<"\tchoose the conversen from to (1 or 2)"<<endl;
     cout<<endl<<"\t-------------------------------"<<endl;
-    cout<<"\t(1) celsius to Fahrenhit"<<endl;
-    cout<<"\t(2) Fahrenhit to celsius"<<endl;
+    cout<<"\t(1) celsius to Fahrenheit"<<endl;
+    cout<<"\t(2) Fahrenheit to celsius"<<endl<<"\t";
     cin>>choice;
 
     if(choice == 1){
@@ -21,17 +21,14 @@ int main(){
         result = (value * 1.8) + 32;
         cout<<"\tFahrenheit = "<<result<<" F";
     }else if(choice == 2){
-        cout<<endl<<"\tFahrenhit = ";
+        cout<<endl<<"\tFahrenheit = ";
         cin>>value;
         cout<<endl<<"\t"<<value<<" F"<<endl;
-        result = (value - 32) * 1.8;
+        result = (value - 32) / 1.8;
         cout<<"\tCelsius = "<<result<<" C";
     }else{
         cout<<endl<<"\twrong choice";
     }
-
-    
-
-    
+    cout<<"\n\t--------------------------------\n";
     return 0;
 }
